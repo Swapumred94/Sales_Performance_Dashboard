@@ -3,6 +3,17 @@ Multi-Tab Interactive Sales & Employee Performance Analytics Application
 Project Overview
 Developed a fully interactive, multi-view Excel Analytics Application to monitor multi-year sales performance (2023–2025), evaluate individual employee productivity, and track regional market distribution. 
 
+Dashboard Previews
+
+1. Products Performance View
+![Products View](products.png)
+
+2. Sales Team Analytics View
+![Salesmans View](salesmans.png)
+
+3. Regional Market Share View
+![Region View](region.png)
+
 Instead of a static layout, this project utilizes an advanced dashboard architecture featuring an intuitive, application-style side navigation system. This allows stakeholders to seamlessly toggle between deep-dives into product metrics, sales team performance, and geographic market shares, significantly accelerating decision-making intervals.
 
 Tech Stack & Key Features
