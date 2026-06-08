@@ -1,5 +1,9 @@
-**Sales Performance Dashboard**
+# **Sales Performance Dashboard**
 <img width="1871" height="797" alt="Product Section" src="https://github.com/user-attachments/assets/5999c817-8e55-4603-9aaf-e54d92af86b4" />
+<img width="1870" height="780" alt="Region Section" src="https://github.com/user-attachments/assets/33cce8c9-1e65-4450-a364-6248c0745b63" />
+<img width="1870" height="797" alt="Salesman Section" src="https://github.com/user-attachments/assets/4d8c94d7-5ced-45d2-936d-1342cf00aa61" />
+
+
 
 
 
